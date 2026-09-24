@@ -1,0 +1,14 @@
+id,full_name,email,city,status,amount,notes
+1001,  Ana Ruiz  ,ana.ruiz@example.com,Lima,active, 120.50 ,Preferred contact
+1002,Ben Ortiz, ben.ortiz@example.com ,  Bogotá ,Active,98.00,"Quoted, with comma"
+1003,Carla Díaz,carla.diaz@example.com,Lima,ACTIVE,120.50,Preferred contact
+1001,  Ana Ruiz  ,ana.ruiz@example.com,Lima,active, 120.50 ,Preferred contact
+1004,Diego Paredes,,Mexico City,inactive,45.00,Missing email
+1005,Elena Vargas,elena.vargas@example.com,CDMX,active,45.00,City may match Mexico City
+1006,Finn Cole,finn.cole@example.com,lima,active,10.00,"=HYPERLINK(""http://evil.example"",""open"")"
+1007,Greta Holm,not-an-email,Oslo,active,88.00,Email looks invalid
+1008,Hiro Tanaka,hiro.tanaka@example.com,Tokyo, pending ,64.00,Status has extra spaces
+1009,Irene Costa,irene.costa@example.com,São Paulo,,77.00,Empty status
+1010,Jamal Wright,n/a,Accra,active,-12.00,Placeholder email and negative amount
+1011,Lina Ortega,lina.ortega@example.com,Lima,active,+44,@cmd prefixed note
+1001,  Ana Ruiz  ,ana.ruiz@example.com,Lima,active, 120.50 ,Preferred contact

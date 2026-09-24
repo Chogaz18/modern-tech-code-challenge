@@ -1,0 +1,12 @@
+node_modules
+dist
+.firebase
+*.log
+.env
+.env.local
+.env.*.local
+functions/lib
+functions/node_modules
+functions/.env
+functions/.secret.local
+functions_

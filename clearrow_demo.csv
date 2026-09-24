@@ -1,0 +1,26 @@
+customer_id,full_name,email,phone,city,signup_date,plan,monthly_amount_usd
+C001,Ana Torres,ana.torres@example.com,+1 555-0101,New York,2026-01-15,Pro,49.00
+C002,Luis Rivera,luis.rivera@example.com,+1 555-0102,San Francisco,2026-02-03,Basic,19.00
+C003,Maya Chen,maya.chen@example.com,+1 555-0103,Chicago,2026-02-11,Enterprise,199.00
+C004,Omar Patel,omar.patel@example.com,+1 555-0104,Austin,2026-03-02,Pro,49.00
+C005,Emma Wilson,emma.wilson@example.com,+1 555-0105,New York,2026-03-18,Basic,19.00
+C006,Sofia Morales,sofia.morales@example.com,+1 555-0106,Los Angeles,2026-04-07,Pro,49.00
+C007,Noah Kim,noah.kim@example.com,+1 555-0107,Seattle,2026-04-21,Basic,19.00
+C008,Ava Brown,ava.brown@example.com,+1 555-0108,Boston,2026-05-09,Enterprise,199.00
+C009,Ethan Clark,ethan.clark@example.com,+1 555-0109,Denver,2026-05-26,Pro,49.00
+C010,Isabella Garcia,isabella.garcia@example.com,+1 555-0110,Miami,2026-06-12,Basic,19.00
+C011,Grace Lee,grace.lee@example.com,+1 555-0111, new york ,2026-06-22,pro ,49.00
+C012,Leo Martin,leo.martin@example.com,+1 555-0112,San Francisco,2026-07-03,BASIC,19.00
+C013,Nora Davis,,+1 555-0113,Chicago,2026-07-14,Pro,49.00
+C014,Mia White,mia.white@example.com,+1 555-0114,Austin,07/28/2026,Enterprise,199.00
+C015,Jack Hall,jack.hall@example.com,+1 555-0115,Los Angeles,2026-08-02,Pro,4900.00
+C016,Olivia Young,olivia.young@example.com,+1 555-0116,Seattle,2026-08-16,Basic,19.00
+C016,Olivia Young,olivia.young@example.com,+1 555-0116,Seattle,2026-08-16,Basic,19.00
+C017,Ben Carter,ben.carter@example.com,+1 555-0117,Boston,2026-08-25,Pro,49.00
+C018,Eva Adams,eva.adams@example.com,+1 555-0118,Denver,2026-09-01,Enterprise,199.00
+C019,Liam Scott,liam.scott@example.com,+1 555-0119,New York,2026-09-06,Pro,49.00
+C020,Zoe Baker,zoe.baker@example.com,+1 555-0120,Miami,2026-09-12,Basic,19.00
+C021,Alex Morgan,alex.morgan@example.com,+1 555-0121,Chicago,2026-09-15,Pro,49.00
+C022,Alex Morgan,alex.morgan@example.com,+1 555-0121,Chicago,2026-09-16,Pro,49.00
+C023,Ruby Stone,ruby.stone@example.com,+1 555-0123,Austin,2026-09-18,Pro,-49.00
+C024,"Daniel, Jr. Reed",daniel.reed@example.com,+1 555-0124,Boston,2026-09-20,Basic,19.00
